@@ -1,0 +1,8 @@
+[submodule "lib/battery"]
+	path = lib/battery
+	url = https://github.com/dniklaus/Battery.git
+	branch = feature/get-rid-of-dependencies
+[submodule "lib/spin-timer"]
+	path = lib/spin-timer
+	url = https://github.com/dniklaus/wiring-timer.git
+	branch = new-name
